@@ -1,8 +1,3 @@
-Mohon maaf atas kesalahpahaman sebelumnya. Sepertinya saya salah menginterpretasikan permintaan Anda. Anda menginginkan *seluruh* teks yang saya berikan sebelumnya, termasuk pendahuluannya, dalam format Markdown utuh, bukan hanya penjelasan terpisah.
-
-Berikut adalah **seluruh konten** dalam format Markdown yang siap Anda salin ke file `README.md` Anda:
-
-````markdown
 # 📊 Dashboard Anxiety Prediction
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
